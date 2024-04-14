@@ -1,10 +1,10 @@
 # ECS 171 Project Description
 
 ### Team Members:
+- Xupeng Zhang
 - Katherine Li
 - Nate Buttke
 - Kalyan Suvarna
-- Xupeng Zhang
 
 ## Problem Description
 Many businesses have ecommerce platforms so that customers can efficiently shop online. In order to promote their ecommerce platforms, businesses invest resources into marketing through various channels to attract customers. However, many shoppers or people in general, tend to visit ecommerce websites to browse, ultimately leaving without making a purchase. This sometimes results in a loss of resources for businesses as they are marketing to customer segments that are unlikely to make an online purchase.
